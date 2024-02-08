@@ -9,7 +9,7 @@
 }
 
 .navbar-brand img {
-    max-width: 150px;
+    max-width: 150px; 
 }
 
 .navbar-nav .nav-link {
@@ -155,7 +155,7 @@
     color: white; 
     padding: 50px 0; 
 }
-.footer 
+
 .footer h5 {
     color:whitesmoke; 
     margin-bottom: 20px;
@@ -167,26 +167,26 @@
 }
 
 .footer ul li a {
-    color: #6c757d; 
-    text-decoration: none;
+    color: #6c757d;
+    text-decoration: none; 
     transition: color 0.3s; 
 }
 
 .footer ul li a:hover {
-    color: whitesmoke; 
+    color: whitesmoke;
 }
 
 .footer p {
     margin-bottom: 10px; 
 }
 .col-md-3 {
-    padding-top: 4rem; /* Add top padding */
-    text-align: center; /* Center align content */
+    padding-top: 4rem; 
+    text-align: center;
 }
 
 .card1 {
-    max-width: 50%; /* Ensure image fits container width */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 50%; 
+    height: auto;
 }
 
 .pt-4 {
@@ -194,6 +194,7 @@
     color: #6c757d; 
     font-size: 0.9rem; 
     line-height: 1.5; 
+}
 
 .text-center {
     text-align: center;
@@ -208,7 +209,7 @@
 .menu-item-image1 {
     width: 100%;
     max-width: 200px; 
-    height: 25%;
+    height: 25%; 
 }
 .better{
     -webkit-font-smoothing: antialiased;
@@ -230,6 +231,5 @@
     min-height: 104px;
     background-color: rgb(240, 240, 245);
 }
-
 
 
